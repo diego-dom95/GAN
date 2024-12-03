@@ -21,7 +21,7 @@ To set up the required environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your_username/waveform_generator_project.git](https://github.com/diego-dom95/GAN.git)
+   git clone https://github.com/diego-dom95/GAN.git
    cd waveform_generator_project
    ```
 
@@ -69,4 +69,4 @@ Contributions are welcome! If you find any bugs or would like to add new feature
 For questions or discussions, feel free to reach out to:
 
 - **Diego Dominguez: [diego@gw.phys.sci.isct.ac.jp]
-- **GitHub: [[https://github.com/](https://github.com/diego-dom95)]
+- **GitHub: [https://github.com/diego-dom95](https://github.com/diego-dom95)
